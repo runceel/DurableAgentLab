@@ -4,6 +4,3 @@ Content-Type: application/json
 {
   "message": "Hello"
 }
-
-###
-GET  http://localhost:7268/api/Function1_HttpStart
